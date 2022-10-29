@@ -16,3 +16,7 @@ i have also spent a lot more time on re-design as i followed a Figma design prov
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Hosted on Netlify
+
+https://mido-game-site.netlify.app
